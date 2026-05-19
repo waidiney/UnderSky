@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class WebServiceController {
     @GetMapping(value = "/joker")
     public String joker(){
-        return "Fica aí com tuas piadinhas";
+        return "Fica aí com tuas piadinhas1 ";
     }
 }
