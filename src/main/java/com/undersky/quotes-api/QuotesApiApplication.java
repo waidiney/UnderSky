@@ -1,13 +1,13 @@
-package com.joker;
+package com.example.UnderSky;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class QuotesApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(QuotesApiApplication.class, args);
 	}
 
 }
